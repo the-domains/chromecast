@@ -1,7 +1,7 @@
 name: Chromecast
 favicon: null
-layout_spectrum: 0.3890517584513873
-typography_spectrum: 0.023693618830293417
+layout_spectrum: 0
+typography_spectrum: 0.25214
 cta:
   domain: null
   bucket: null
@@ -16,13 +16,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#9D2D3C'
-    - '#DDE4DD'
-    - '#BCAB47'
-    - '#6B574B'
-    - '#160600'
-  brandStrength: 0.8430985386949033
+    - '#f4f4f4'
+    - '#e33e2b'
+    - '#2ca24c'
+    - '#f1b500'
+    - '#a7c0f0'
+  brandStrength: 1
   lightness: 0.8609274700284004
-  saturation: 0.7556480937637389
-  rhythmicContrast: 0.15486387023702264
+  saturation: 0.5
+  rhythmicContrast: 0.5
 purpose: []
