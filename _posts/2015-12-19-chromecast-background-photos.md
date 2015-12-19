@@ -1,28 +1,29 @@
 ---
 inFeed: true
-hasPage: true
+hasPage: false
 inNav: false
+isBasedOnUrl: null
 inLanguage: null
-starred: false
+starred: true
 keywords: []
 description: ''
-datePublished: '2015-12-19T03:48:13.394Z'
-dateModified: '2015-12-19T03:47:51.631Z'
+datePublished: '2015-12-19T04:04:51.145Z'
+dateModified: '2015-12-19T04:01:47.885Z'
 title: Chromecast Background Photos
 author: []
+sourcePath: _posts/2015-12-19-chromecast-background-photos.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2015-12-19-chromecast-background-photos.md
-published: true
-url: chromecast-background-photos/index.html
-_type: Article
+_type: Blurb
 
 ---
-Chromecast Background Photos  
+Chromecast Background Photos
+
 Also great for tablets and phones.
 
 By Dave Dibert ([http://www.dibert.com][0])
