@@ -1,6 +1,6 @@
 name: Chromecast
 favicon: null
-layout_spectrum: 0
+layout_spectrum: 0.25108
 typography_spectrum: 0.25214
 cta:
   domain: null
@@ -22,7 +22,7 @@ color:
     - '#f1b500'
     - '#a7c0f0'
   brandStrength: 1
-  lightness: 0.8609274700284004
+  lightness: 0.5
   saturation: 0.5
-  rhythmicContrast: 0.5
+  rhythmicContrast: 0
 purpose: []
