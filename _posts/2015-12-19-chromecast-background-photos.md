@@ -7,8 +7,8 @@ inLanguage: null
 starred: true
 keywords: []
 description: ''
-datePublished: '2015-12-24T18:54:46.024Z'
-dateModified: '2015-12-24T18:54:40.092Z'
+datePublished: '2015-12-24T18:56:12.203Z'
+dateModified: '2015-12-24T18:55:55.072Z'
 title: Chromecast Background Photos
 author: []
 sourcePath: _posts/2015-12-19-chromecast-background-photos.md
@@ -26,7 +26,7 @@ Chromecast Background Photos
 
 Also great for tablets and phones.
 
-[http://www.dibert.com][0])
+[http://www.dibert.com][0]
 
 [https://creativecommons.org/licenses/by/3.0/igo/][1]
 ![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/6932f98f31347ef29d6d1bd304ab4888a0ca0bb9.jpg)
