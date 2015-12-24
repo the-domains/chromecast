@@ -1,13 +1,13 @@
 ---
-inFeed: false
+inFeed: true
 hasPage: true
 inNav: false
 inLanguage: null
 starred: true
 keywords: []
 description: ''
-datePublished: '2015-12-24T18:59:06.697Z'
-dateModified: '2015-12-24T18:58:04.757Z'
+datePublished: '2015-12-24T19:05:39.712Z'
+dateModified: '2015-12-24T19:05:18.437Z'
 title: Chromecast Background Photos
 author: []
 sourcePath: _posts/2015-12-19-chromecast-background-photos.md
@@ -19,7 +19,7 @@ publisher:
   url: null
   favicon: null
 url: chromecast-background-photos/index.html
-_type: Blurb
+_type: Article
 
 ---
 Chromecast Background Photos
