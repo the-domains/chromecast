@@ -6,8 +6,8 @@ inLanguage: null
 starred: true
 keywords: []
 description: ''
-datePublished: '2015-12-24T18:58:04.757Z'
-dateModified: '2015-12-24T18:57:57.301Z'
+datePublished: '2015-12-24T18:59:06.697Z'
+dateModified: '2015-12-24T18:58:04.757Z'
 title: Chromecast Background Photos
 author: []
 sourcePath: _posts/2015-12-19-chromecast-background-photos.md
