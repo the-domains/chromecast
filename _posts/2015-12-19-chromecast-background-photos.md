@@ -1,13 +1,13 @@
 ---
 inFeed: true
 hasPage: true
-inNav: true
+inNav: false
 inLanguage: null
 starred: true
 keywords: []
 description: ''
-datePublished: '2016-01-01T00:15:34.950Z'
-dateModified: '2016-01-01T00:15:31.282Z'
+datePublished: '2016-01-01T00:16:00.157Z'
+dateModified: '2016-01-01T00:15:56.543Z'
 title: "http://www.dibert.com/\_& https://dibert.portfoliobox.net/"
 author: []
 sourcePath: _posts/2015-12-19-chromecast-background-photos.md
