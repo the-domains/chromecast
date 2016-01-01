@@ -1,13 +1,13 @@
 ---
-inFeed: false
+inFeed: true
 hasPage: true
-inNav: false
+inNav: true
 inLanguage: null
 starred: true
 keywords: []
 description: ''
-datePublished: '2016-01-01T00:14:51.502Z'
-dateModified: '2016-01-01T00:04:01.577Z'
+datePublished: '2016-01-01T00:15:34.950Z'
+dateModified: '2016-01-01T00:15:31.282Z'
 title: "http://www.dibert.com/\_& https://dibert.portfoliobox.net/"
 author: []
 sourcePath: _posts/2015-12-19-chromecast-background-photos.md
@@ -19,7 +19,7 @@ publisher:
   url: null
   favicon: null
 url: chromecast-background-photos/index.html
-_type: Blurb
+_type: Article
 
 ---
 Chromecast Background Photos - Also great for tablets and phones.
