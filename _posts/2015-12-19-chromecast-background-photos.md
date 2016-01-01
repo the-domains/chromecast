@@ -1,14 +1,14 @@
 ---
-inFeed: true
+inFeed: false
 hasPage: true
 inNav: false
 inLanguage: null
 starred: true
 keywords: []
 description: ''
-datePublished: '2015-12-25T03:34:18.193Z'
-dateModified: '2015-12-24T19:07:33.844Z'
-title: Chromecast Background Photos
+datePublished: '2016-01-01T00:14:51.502Z'
+dateModified: '2016-01-01T00:04:01.577Z'
+title: "http://www.dibert.com/\_& https://dibert.portfoliobox.net/"
 author: []
 sourcePath: _posts/2015-12-19-chromecast-background-photos.md
 published: true
@@ -19,18 +19,17 @@ publisher:
   url: null
   favicon: null
 url: chromecast-background-photos/index.html
-_type: Article
+_type: Blurb
 
 ---
-Chromecast Background Photos
+Chromecast Background Photos - Also great for tablets and phones.
 
-Also great for tablets and phones.
+# 
 
-[http://www.dibert.com][0]
+[http://www.dibert.com/][0] & [https://dibert.portfoliobox.net/][1]
 
-[https://creativecommons.org/licenses/by/3.0/igo/][1]
-![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/6932f98f31347ef29d6d1bd304ab4888a0ca0bb9.jpg)
-![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/586e94b5c723f5ac5389e2f4b3c5fcf545d540dc.jpg)
+[Free for public Use under CC ][2][Attribution 3.0 IGO][2]
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/6e19ea1a-5229-4296-8da6-62b261a45600.jpg)
 ![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/4a7b723693ccebd5f8091f2ff7b4f52f6f0c81be.jpg)
 ![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/2a7397a674a36df480deea230960b2e83b712ea1.jpg)
 ![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/248c11b2ac4edcf1c36845fb90fa186698464c4c.jpg)
@@ -57,4 +56,5 @@ Also great for tablets and phones.
 ![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/b2e912fe1782b7352ed98055e73a793be7b5b8c9.jpg)
 
 [0]: http://www.dibert.com/
-[1]: https://creativecommons.org/licenses/by/3.0/igo/
+[1]: https://dibert.portfoliobox.net/
+[2]: https://creativecommons.org/licenses/by/3.0/igo/
