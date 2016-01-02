@@ -6,8 +6,8 @@ inLanguage: null
 starred: true
 keywords: []
 description: ''
-datePublished: '2016-01-01T00:24:31.928Z'
-dateModified: '2016-01-01T00:24:23.580Z'
+datePublished: '2016-01-02T15:13:31.636Z'
+dateModified: '2016-01-02T15:13:26.724Z'
 title: "http://www.dibert.com/\_& https://dibert.portfoliobox.net/"
 author: []
 sourcePath: _posts/2015-12-19-chromecast-background-photos.md
