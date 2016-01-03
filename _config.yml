@@ -1,6 +1,6 @@
 name: Chromecast
 favicon: null
-layout_spectrum: 0.22158
+layout_spectrum: 0.24345
 typography_spectrum: 0.73815
 title: Chromecast Backgrounds
 cta:
@@ -22,8 +22,8 @@ color:
     - '#2ca24c'
     - '#f1b500'
     - '#a7c0f0'
-  brandStrength: 1
+  brandStrength: 0
   lightness: 0.5
   saturation: 0.5
-  rhythmicContrast: 1
+  rhythmicContrast: 0
 purpose: []
