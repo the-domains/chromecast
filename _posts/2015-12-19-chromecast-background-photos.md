@@ -5,10 +5,10 @@ inNav: false
 inLanguage: null
 starred: true
 keywords: []
-description: ''
-datePublished: '2016-01-02T15:13:31.636Z'
-dateModified: '2016-01-02T15:13:26.724Z'
-title: "http://www.dibert.com/\_& https://dibert.portfoliobox.net/"
+description: "Dave Dibert's Public Chromecast background photos"
+datePublished: '2016-01-03T23:14:37.735Z'
+dateModified: '2016-01-03T23:14:28.760Z'
+title: "http://www.dibert.com/\_& http://dibert.portfoliobox.net/"
 author: []
 sourcePath: _posts/2015-12-19-chromecast-background-photos.md
 published: true
@@ -26,7 +26,7 @@ Chromecast Background Photos - Also great for tablets and phones.
 
 # 
 
-[http://www.dibert.com/][0] & [https://dibert.portfoliobox.net/][1]
+[http://www.dibert.com/][0] & [http://dibert.portfoliobox.net/][1]
 
 [Free for public Use under CC ][2][Attribution 3.0 IGO][2]
 ![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/8bcfc293dd7d56cc30b1218fe142e2a2c4ae9828.jpg)
@@ -56,5 +56,5 @@ Chromecast Background Photos - Also great for tablets and phones.
 ![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/b2e912fe1782b7352ed98055e73a793be7b5b8c9.jpg)
 
 [0]: http://www.dibert.com/
-[1]: https://dibert.portfoliobox.net/
+[1]: http://dibert.portfoliobox.net/
 [2]: https://creativecommons.org/licenses/by/3.0/igo/
