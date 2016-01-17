@@ -1,13 +1,14 @@
 ---
 inFeed: true
-hasPage: true
+hasPage: false
 inNav: false
+isBasedOnUrl: ''
 inLanguage: null
 starred: true
 keywords: []
 description: "Dave Dibert's Public Chromecast background photos"
-datePublished: '2016-01-03T23:14:37.735Z'
-dateModified: '2016-01-03T23:14:28.760Z'
+datePublished: '2016-01-17T00:28:55.563Z'
+dateModified: '2016-01-17T00:28:49.485Z'
 title: "http://www.dibert.com/\_& http://dibert.portfoliobox.net/"
 author: []
 sourcePath: _posts/2015-12-19-chromecast-background-photos.md
@@ -18,8 +19,7 @@ publisher:
   domain: null
   url: null
   favicon: null
-url: chromecast-background-photos/index.html
-_type: Article
+_type: Blurb
 
 ---
 Chromecast Background Photos - Also great for tablets and phones.
