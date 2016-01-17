@@ -6,9 +6,9 @@ isBasedOnUrl: ''
 inLanguage: null
 starred: true
 keywords: []
-description: "Dave Dibert's Public Chromecast background photos"
-datePublished: '2016-01-17T00:28:56.484Z'
-dateModified: '2016-01-17T00:28:49.485Z'
+description: By Dave Dibert
+datePublished: '2016-01-17T00:31:53.946Z'
+dateModified: '2016-01-17T00:31:49.486Z'
 title: "http://www.dibert.com/\_& http://dibert.portfoliobox.net/"
 author: []
 sourcePath: _posts/2015-12-19-chromecast-background-photos.md
