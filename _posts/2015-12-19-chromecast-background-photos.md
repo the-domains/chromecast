@@ -7,8 +7,8 @@ inLanguage: null
 starred: true
 keywords: []
 description: By Dave Dibert
-datePublished: '2016-01-17T00:34:05.320Z'
-dateModified: '2016-01-17T00:34:04.043Z'
+datePublished: '2016-01-17T00:34:05.468Z'
+dateModified: '2016-01-17T00:34:04.341Z'
 title: "http://www.dibert.com/\_&http://dibert.portfoliobox.net/"
 author: []
 sourcePath: _posts/2015-12-19-chromecast-background-photos.md
