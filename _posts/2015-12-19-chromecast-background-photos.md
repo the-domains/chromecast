@@ -7,9 +7,9 @@ inLanguage: null
 starred: true
 keywords: []
 description: By Dave Dibert
-datePublished: '2016-01-17T00:31:56.732Z'
-dateModified: '2016-01-17T00:31:53.946Z'
-title: "http://www.dibert.com/\_& http://dibert.portfoliobox.net/"
+datePublished: '2016-01-17T00:34:03.687Z'
+dateModified: '2016-01-17T00:34:01.884Z'
+title: "http://www.dibert.com/\_&http://dibert.portfoliobox.net/"
 author: []
 sourcePath: _posts/2015-12-19-chromecast-background-photos.md
 published: true
@@ -23,12 +23,6 @@ _type: Blurb
 
 ---
 Chromecast Background Photos - Also great for tablets and phones.
-
-# 
-
-[http://www.dibert.com/][0] & [http://dibert.portfoliobox.net/][1]
-
-[Free for public Use under CC ][2][Attribution 3.0 IGO][2]
 ![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/8bcfc293dd7d56cc30b1218fe142e2a2c4ae9828.jpg)
 ![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/4a7b723693ccebd5f8091f2ff7b4f52f6f0c81be.jpg)
 ![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/2a7397a674a36df480deea230960b2e83b712ea1.jpg)
@@ -54,6 +48,12 @@ Chromecast Background Photos - Also great for tablets and phones.
 ![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/ba5194c8a19d37d0c49b58d923d6b8625b938294.jpg)
 ![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/f56ab4111642ca7c496bbe0492c377ad0aea92c0.jpg)
 ![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/b2e912fe1782b7352ed98055e73a793be7b5b8c9.jpg)
+
+# 
+
+[http://www.dibert.com/][0] &[http://dibert.portfoliobox.net/][1]
+
+[Free for public Use under CC ][2][Attribution 3.0 IGO][2]
 
 [0]: http://www.dibert.com/
 [1]: http://dibert.portfoliobox.net/
